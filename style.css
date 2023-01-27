@@ -1,0 +1,29 @@
+
+.rma{
+    height: 500%;
+    width: 1000px;
+   
+}
+.display-4{
+    color: red;
+}
+.card-body{
+    margin: 30px;
+}
+.container_footer{
+    border-radius: 25px;
+    background-color: grey
+}
+#rmda{
+    border-radius: 10px;
+    
+}
+#btnSubmit{
+    appearance: none;
+    border: none;
+    background-color: rgb(160, 3, 3);
+    padding: 0.25rem 0.5rem;
+    color: white;
+    border-radius: 5px;
+    transition: all 250ms ease;
+}
